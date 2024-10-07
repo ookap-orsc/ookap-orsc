@@ -1,6 +1,6 @@
 ## english
-- hi i'm ookap :)
-- pronouns: they/them preferred, he/him also ok
+- hi i'm oscar :)
+- pronouns: they/them preferred
 - i have no idea how to code!
 - i love languages and linguistics
 - languages spoken: english, spanish, toki pona, esperanto, some japanese, and more!
