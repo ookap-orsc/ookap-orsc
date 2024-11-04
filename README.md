@@ -1,6 +1,6 @@
 ## english
-- hi i'm oscar :)
-- pronouns: they/them preferred
+- hi! i'm oscar :)
+- pronouns: they/them or ask
 - i have no idea how to code!
 - i love languages and linguistics
 - languages spoken: english, spanish, toki pona, esperanto, some japanese, and more!
