@@ -1,6 +1,6 @@
 ## english
 - hi! i'm oscar :)
-- pronouns: they/she or ask
+- pronouns: she/they or ask
 - i have no idea how to code, but i use github to contribute to open-source projects!
 - i love languages and linguistics
 - languages spoken: eng spa epo tok jpn tpi cmn
