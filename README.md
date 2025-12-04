@@ -3,7 +3,7 @@
 - pronouns: she/they or ask
 - i have no idea how to code, but i use github to contribute to open-source projects!
 - i love languages and linguistics
-- languages spoken: eng spa epo tok jpn tpi cmn
+- languages spoken: eng-N spa-N tok-4 epo-3 jpn-3 tpi-1 cmn-1
 - [discord](https://discordapp.com/users/925087088418885632)
 
 ## toki pona
